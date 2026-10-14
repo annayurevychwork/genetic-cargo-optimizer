@@ -26,3 +26,13 @@ Leveraging vectorized operations via `numpy`, the algorithm demonstrates rapid c
 - Volume utilization reaches **100.0%**.
 - Weight capacity utilization reaches **97.5%**.
 - The best fitness score stabilizes efficiently by the 150th generation.
+
+## 📸 App Showcase & Results
+
+### Evolution Progress
+> The algorithm's best fitness score recorded every 25 generations, showing rapid convergence.
+<img src="./screenshots/scr1.png" alt="Evolution Progress" width="300" />
+
+### Selected Items & Final Capacity Limits
+> The final optimal combination of cargo items, demonstrating maximum volume (100.0%) and weight (97.5%) utilization.
+<img src="./screenshots/scr2.png" alt="Selected Items and Capacity Limits" width="300" />
